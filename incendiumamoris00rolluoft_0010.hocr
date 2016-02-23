@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./incendiumamoris00rolluoft_0010.png"; bbox 0 0 1757 2990; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 402 1315 1343 1359">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 402 1315 1343 1359">
+     <span class='ocr_line' id='line_1_1' title="bbox 402 1315 1343 1359; baseline -0.01 -1"><span class='ocrx_word' id='word_1_1' title='bbox 402 1322 647 1359; x_wconf 79' lang='lat' dir='ltr'>UNIVER81TY</span> <span class='ocrx_word' id='word_1_2' title='bbox 677 1331 724 1354; x_wconf 81' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 754 1318 1029 1354; x_wconf 80' lang='lat' dir='ltr'>MANCHESTER</span> <span class='ocrx_word' id='word_1_4' title='bbox 1059 1315 1343 1351; x_wconf 78' lang='lat' dir='ltr'><strong>PUBchTmNs</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 736 1386 1012 1426">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 736 1386 1012 1426">
+     <span class='ocr_line' id='line_1_2' title="bbox 736 1386 1012 1426; baseline -0.014 0"><span class='ocrx_word' id='word_1_5' title='bbox 736 1389 808 1426; x_wconf 91' lang='lat' dir='ltr'><strong>No.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 848 1386 1012 1424; x_wconf 90' lang='lat' dir='ltr'><strong>XCVII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 639 2616 1102 2642">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 639 2616 1102 2642">
+     <span class='ocr_line' id='line_1_3' title="bbox 639 2616 1102 2642; baseline -0.004 0"><span class='ocrx_word' id='word_1_7' title='bbox 639 2619 712 2642; x_wconf 82' lang='lat' dir='ltr'><strong>ALL</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 736 2618 799 2642; x_wconf 79' lang='lat' dir='ltr'><strong>1th</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 805 2618 876 2642; x_wconf 86' lang='lat' dir='ltr'><strong>HTS</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 900 2616 1102 2641; x_wconf 76' lang='lat' dir='ltr'>RESERVED</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
